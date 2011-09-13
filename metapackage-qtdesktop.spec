@@ -1,3 +1,5 @@
+# TODO:
+# http://download.opensuse.org/repositories/home:/TI_Eugene:/QtDesktop/Fedora_15/src/
 Summary:	Qt4-based desktop environment
 Name:		metapackage-qtdesktop
 Version:	0.1
